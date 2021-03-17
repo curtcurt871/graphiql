@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.4.1
+
+### Patch Changes
+
+- [`1f92d1dc`](https://github.com/graphql/graphiql/commit/1f92d1dcc0102bdec078263b87ca20cd670a1c86) [#1804](https://github.com/graphql/graphiql/pull/1804) Thanks [@maraisr](https://github.com/maraisr)! - Fixes issue where with IncrementalDelivery directives objects wouldn't deep-merge.
+
 ## 1.4.0
 
 ### Patch Changes
